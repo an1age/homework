@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MSP\MSP\bin\Debug\MSP.exe.config
+C:\Users\User\source\repos\MSP\MSP\bin\Debug\MSP.exe
+C:\Users\User\source\repos\MSP\MSP\bin\Debug\MSP.pdb
+C:\Users\User\source\repos\MSP\MSP\obj\Debug\MSP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MSP\MSP\obj\Debug\MSP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MSP\MSP\obj\Debug\MSP.exe
+C:\Users\User\source\repos\MSP\MSP\obj\Debug\MSP.pdb
